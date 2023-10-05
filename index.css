@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #472a2a;
+}
+
+#guessField {
+    width: 35px;
+}
+
+#guessSubmit {
+    padding: 5px 10px;
+    background-color: #b13a32;
+    border: none;
+    color: antiquewhite;
+    cursor: pointer;
+}
+
+.message {
+    color: #472a2a;
+    font-weight: bold;
+}
